@@ -1,0 +1,14 @@
+{
+  "name": "mongodbfaststart",
+  "version": "1.0.0",
+  "description": "MongoDB Quick Connect Library",
+  "main": "index.js",
+  "keywords": [
+    "mongoDB"
+  ],
+  "author": "Dmitriy Dzyuman <telegram: @dimadzuman>",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^4.4.1"
+  }
+}
